@@ -52,3 +52,4 @@ output\pager.exe
 ## 👨‍💻 Autor
 
 Gabriel Cunha
+Kauan Richard
