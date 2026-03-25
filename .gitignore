@@ -1,0 +1,22 @@
+# Executáveis
+*.exe
+*.out
+
+# Pasta de build
+output/
+
+# Arquivos objeto (compilação intermediária)
+*.o
+
+# Logs
+*.log
+
+# Arquivos temporários do sistema
+*.tmp
+*.cache
+
+# VSCode (ignora tudo, menos configs úteis)
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/settings.json
